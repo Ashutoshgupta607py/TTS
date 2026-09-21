@@ -71,3 +71,7 @@ Distribute the complete `dist\tts` folder, including its `_internal` directory. 
 
 This project is provided for personal and educational use. Review the licenses of Kokoro, PyTorch, eSpeak NG, and all other dependencies before redistributing the application.
 
+### Download 🚀
+
+You can download the the main zip from the releases area by downloading the zip. 
+
