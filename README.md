@@ -70,3 +70,6 @@ Distribute the complete `dist\tts` folder, including its `_internal` directory. 
 ## License
 
 This project is provided for personal and educational use. Review the licenses of Kokoro, PyTorch, eSpeak NG, and all other dependencies before redistributing the application.
+
+### 🚀 Download Executable Application
+[Click here to download the Pre-compiled Kokoro TTS Application (700 MB)](YOUR_GOOGLE_DRIVE_LINK)
